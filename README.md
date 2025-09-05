@@ -1,7 +1,10 @@
 <div align="center">
 
-# Java Programming 
+  <h1>Java Programming</h1>
+  <p>All assignments and lessons are stored in this repository.</p>
 
-All assignments and lessons are stored in this repository.  
+  <h2>Course Assignments</h2>
+
+  <h2>Course Exams</h2>
 
 </div>
